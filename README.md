@@ -27,4 +27,12 @@ I have explicitly used 2 files, because, in the main implementation, that's how 
 ### Motivation
 There were no convenient and simple ways to do this on stackoverflow or Qt Forum.
 Also, using `QDataWidgetMapper` was making things over-complicated. Thus I implemented it
-in a easier way.
+in an easier way.
+
+<hr>
+
+### Preview:
+
+<p align="center">
+    <img src="widget_view.png">
+</p>
